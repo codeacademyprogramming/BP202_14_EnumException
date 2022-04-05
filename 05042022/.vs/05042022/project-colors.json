@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0c51190-8d7d-456b-ba9a-d26bc7e8d116": {
+      "ProjectGuid": "d0c51190-8d7d-456b-ba9a-d26bc7e8d116",
+      "DisplayName": "CourseTask",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b9d38459-a16b-4728-af99-e939702bc1a1": {
+      "ProjectGuid": "b9d38459-a16b-4728-af99-e939702bc1a1",
+      "DisplayName": "Exceptions",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
